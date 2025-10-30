@@ -1,6 +1,6 @@
 # Spatial-Autoregressive-Geometric-Mean-Model
 
-This repository contains the R code to fit the **spatial autoregressive geometric mean model** to spatial count data, such as epidemiological data. The methodology is described in the paper: **_Spatial Autoregressive Modelling of Epidemiological Data: Geometric Mean Model Proposal._**, published in SORT (https://www.idescat.cat/sort/) in 2025.
+This repository contains the R code to fit the **spatial autoregressive geometric mean model** to spatial count data, such as epidemiological data. The methodology is described in the paper: ** Morales-Otero, M. Faes, C. and Núñez-Antón, V. (2025). Spatial autoregressive modelling of epidemiological data: geometric mean model proposal. SORT-Statistics and Operations Research Transactions, 49(1). https://doi.org/10.57645/20.8080.02.24. **, 
 
 ## Script structure 
 1. The dataset is simulated using the geometry of the Columbus shapefile from the `spData` library  
